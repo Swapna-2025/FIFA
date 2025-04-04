@@ -70,6 +70,31 @@ The SQL queries used to analyze the dataset are stored in the Fifa.sql file. The
 ↪ Set Up the Database: Use a SQL database management system (e.g., MySQL) to set up the database. Import the Fifa.csv file into your database.
  
 ↪ Run the SQL Script: Execute the Fifa.sql script in your SQL database management system to run the queries.
+
+
+
+
+
+
+
+# ✍️ Conclusion :-
+
+
+
+
+In conclusion, the FIFA dataset offers a comprehensive view of player statistics, performance metrics, and attributes that shape the modern game of football. 
+
+Through this analysis, we were able to explore key trends in player ratings, identify top-performing individuals and clubs, and understand the relationships between variables such as age, weight, and potentiality. 
+
+The data highlights how player attributes contribute to their overall effectiveness and how different  nations contribute to the global football scene.
+
+
+
+
+
+
+
+
  
 
 
